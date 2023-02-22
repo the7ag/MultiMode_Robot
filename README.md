@@ -25,7 +25,7 @@ To get started with the project, follow the steps below:
 7. Use the mobile app to control the robot car manually using Bluetooth or switch to autonomous mode to make the robot car follow a line.
 ## Usage
 
-# The robot car can be used in the following ways:
+#### The robot car can be used in the following ways:
 
 1. Manual control using Bluetooth: Use the mobile app to control the robot car manually using Bluetooth. The app allows you to move the robot car forward, backward, left and right.
 2. Autonomous line following: Switch to autonomous mode to make the robot car follow a line. The robot car uses the IR sensor module to detect the line and adjust its direction accordingly.  
